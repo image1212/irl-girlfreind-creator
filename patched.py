@@ -1,0 +1,20 @@
+import time
+print("GF CREATOR V69")
+print("")
+def create():
+  time.sleep(10)
+  print("Creating.")
+  time.sleep(1)
+  print("Creating..")
+  time.sleep(1)
+  print("Creating...")
+  time.sleep(1)
+  print("Creating....")
+  time.sleep(1)
+  print("Creating.....")
+  time.sleep(1)
+  print("Creating......")
+  time.sleep(1)
+  print("Creating.......")
+while true():
+  create()
